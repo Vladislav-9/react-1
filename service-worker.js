@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Vladislav-9/react-1/precache-manifest.495148cb35537fa4e1b7d98c1ed6b947.js"
+  "/react-1/precache-manifest.72c7a689e5afb94d10cc0ddb059bcade.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/Vladislav-9/react-1/index.html", {
+workbox.routing.registerNavigationRoute("/react-1/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });

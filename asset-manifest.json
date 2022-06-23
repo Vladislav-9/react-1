@@ -1,13 +1,13 @@
 {
-  "main.css": "/Vladislav-9/react-1/static/css/main.1ac4bbfb.chunk.css",
-  "main.js": "/Vladislav-9/react-1/static/js/main.d97bcb65.chunk.js",
-  "main.js.map": "/Vladislav-9/react-1/static/js/main.d97bcb65.chunk.js.map",
-  "static/js/1.f3b84ad1.chunk.js": "/Vladislav-9/react-1/static/js/1.f3b84ad1.chunk.js",
-  "static/js/1.f3b84ad1.chunk.js.map": "/Vladislav-9/react-1/static/js/1.f3b84ad1.chunk.js.map",
-  "runtime~main.js": "/Vladislav-9/react-1/static/js/runtime~main.d212b196.js",
-  "runtime~main.js.map": "/Vladislav-9/react-1/static/js/runtime~main.d212b196.js.map",
-  "static/css/main.1ac4bbfb.chunk.css.map": "/Vladislav-9/react-1/static/css/main.1ac4bbfb.chunk.css.map",
-  "index.html": "/Vladislav-9/react-1/index.html",
-  "precache-manifest.495148cb35537fa4e1b7d98c1ed6b947.js": "/Vladislav-9/react-1/precache-manifest.495148cb35537fa4e1b7d98c1ed6b947.js",
-  "service-worker.js": "/Vladislav-9/react-1/service-worker.js"
+  "main.css": "/react-1/static/css/main.1ac4bbfb.chunk.css",
+  "main.js": "/react-1/static/js/main.d97bcb65.chunk.js",
+  "main.js.map": "/react-1/static/js/main.d97bcb65.chunk.js.map",
+  "static/js/1.f3b84ad1.chunk.js": "/react-1/static/js/1.f3b84ad1.chunk.js",
+  "static/js/1.f3b84ad1.chunk.js.map": "/react-1/static/js/1.f3b84ad1.chunk.js.map",
+  "runtime~main.js": "/react-1/static/js/runtime~main.01be7db8.js",
+  "runtime~main.js.map": "/react-1/static/js/runtime~main.01be7db8.js.map",
+  "static/css/main.1ac4bbfb.chunk.css.map": "/react-1/static/css/main.1ac4bbfb.chunk.css.map",
+  "index.html": "/react-1/index.html",
+  "precache-manifest.72c7a689e5afb94d10cc0ddb059bcade.js": "/react-1/precache-manifest.72c7a689e5afb94d10cc0ddb059bcade.js",
+  "service-worker.js": "/react-1/service-worker.js"
 }
