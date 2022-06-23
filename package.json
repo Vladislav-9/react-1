@@ -8,7 +8,7 @@
     "react-dom": "^16.4.1",
     "react-scripts": "^2.1.1"
   },
-  "homepage": "https://github.com/Vladislav-9/react-1",
+  "homepage": "https://Vladislav-9.github.io/react-1",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
